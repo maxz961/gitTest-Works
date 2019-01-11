@@ -1,0 +1,9 @@
+.search__item {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.search__item .input {
+    margin-top: 30px;
+    width: 400px;
+}
